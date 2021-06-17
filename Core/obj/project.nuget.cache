@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SrLTFiWuhG7QJGQDw9IO9U6ynSERpMJ5RJZM7HfZl6ovyVYQkxHJmuG4n5ORx/XMAeRIZylnm/oX+shQVJMYiQ==",
+  "dgSpecHash": "UC7z60bg/XvjQ79V/EQ5A3c4kerWG64IWK45WI3D8boltbb8dN9Pnsfua7BBRLrLR7c5vRw/tD83eGO51wgWCw==",
   "success": true,
   "projectFilePath": "/home/leonardopinho/RiderProjects/Simple/Core/Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/leonardopinho/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

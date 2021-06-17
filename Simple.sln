@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.IoC", "Infra.IoC\Infra.IoC.csproj", "{7C3E0B3C-8405-4B5D-B4D6-06820D6AD646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra.Bus", "Infra.Bus\Infra.Bus.csproj", "{59A106FE-5567-4A51-AF86-BC76B80EE2B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BEEC2CC1-BF0A-49E2-B952-6C0F48BABC56} = {0E46321F-D666-428F-9039-1EFBE3AF4CF8}
 		{7C3E0B3C-8405-4B5D-B4D6-06820D6AD646} = {18086A79-BFDE-4C42-92A9-8BBE50990FD5}
+		{59A106FE-5567-4A51-AF86-BC76B80EE2B0} = {61932A4D-BFF7-45C1-8044-3E5C9B2D69A1}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BEEC2CC1-BF0A-49E2-B952-6C0F48BABC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -28,5 +31,9 @@ Global
 		{7C3E0B3C-8405-4B5D-B4D6-06820D6AD646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C3E0B3C-8405-4B5D-B4D6-06820D6AD646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C3E0B3C-8405-4B5D-B4D6-06820D6AD646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A106FE-5567-4A51-AF86-BC76B80EE2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A106FE-5567-4A51-AF86-BC76B80EE2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A106FE-5567-4A51-AF86-BC76B80EE2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A106FE-5567-4A51-AF86-BC76B80EE2B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
